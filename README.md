@@ -6,7 +6,7 @@ Here's the Live Deployed Website ![Project 1](https://img.shields.io/badge/Proje
 
 ## [Link to the Project 1](https://project1trend.netlify.app) 
 
-![Completed Website](./readmeImages/Completed%20Screenshot.jpg)
+![Completed Website](../project-01/assets/README%20images/completed%20image.png)
 
 ## What I learned from this Project?
 
